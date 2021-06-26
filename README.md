@@ -1,6 +1,6 @@
 # Fake Shop
 
-** `React redux` ve `hooksları` kullanarak ![Fake Store](https://www.fakestoreapi.com) apisindeki ürünleri  listeyen** <br/><br/>
+** `React redux` ve `hooksları` kullanarak ![FakeStore](https://www.fakestoreapi.com/) apisindeki ürünleri  listeyen** <br/><br/> 
 [appView](https://github.com/mmyildirim/fake-shop/blob/main/fakeShopAppView.png)<br/></br>
 **Ürüne Tıklandığında,o ürünü baska sayfaya yönlendiren ve ürün  hakkında geniş bilgiyi kullanıcaya gösteren *uygulamam*.**<br/><br/>
 [appView](https://github.com/mmyildirim/fake-shop/blob/main/fakeShopAppView2.png)
