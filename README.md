@@ -1,1 +1,6 @@
-React redux ve hooksları kullanarak fakeshop apisi uzerinden cekilen ürünün bilgeleri içeren ve o urun hakkında geniş bilgiyi içeren bir sayfaya yonlendırme yaptıgım projem
+# Fake Shop
+
+** `React redux` ve `hooksları` kullanarak ![Fake Store](https://fakestoreapi.com) apisindeki ürünleri  listeyen** <br/><br/>
+[appView](https://github.com/mmyildirim/fake-shop/blob/main/fakeShopAppView.png)<br/></br>
+**Ürüne Tıklandığında,o ürünü baska sayfaya yönlendiren ve ürün  hakkında geniş bilgiyi kullanıcaya gösteren *uygulamam*.**<br/><br/>
+[appView](https://github.com/mmyildirim/fake-shop/blob/main/fakeShopAppView2.png)
